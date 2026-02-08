@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hello everyone👋 Sneha Sharma here..
 <!--
 **Snehaa49/Snehaa49** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
